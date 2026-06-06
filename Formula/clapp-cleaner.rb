@@ -2,7 +2,7 @@ class ClappCleaner < Formula
   desc "Command Line-based APP Cleaner — interactive macOS app uninstaller"
   homepage "https://github.com/ardhifnoor/clapp-cleaner"
   url "https://github.com/ardhifnoor/clapp-cleaner/releases/download/v1.1.2/clapp-1.1.2-macos-x86_64.tar.gz"
-  sha256 "d0e257c418dfa147477a9c390073108cbe6e09ac0cf743b4814305bcd2813e91"
+  sha256 "7ca48675915607809a207c15fefb134e3986fe3a5dab163b899961ec48b4975e"
   version "1.1.2"
   license "MIT"
 
